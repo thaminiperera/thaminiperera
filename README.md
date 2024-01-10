@@ -1,8 +1,5 @@
-### Hi 👋
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-<img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="280" height="auto" />
 
+<img src="https://media.giphy.com/media/d5O9lWmhQcKcsTJgGI/giphy.gif" width="280" height="auto" />
 <!--
 **thaminiperera/thaminiperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
